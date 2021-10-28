@@ -4,7 +4,7 @@
 dengan ketentuan berikut
 - [x] Nilai awal x = 4
 - [x] Nilai awal y = 3
-- [x] Input rules = 2, 9, 2, 7 
+ 
 
 ![Flow Wadah - Main](https://user-images.githubusercontent.com/93004722/139200223-a50af9b8-f393-497f-8c09-38095e9d732d.png)
 
