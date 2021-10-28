@@ -8,6 +8,8 @@ dengan ketentuan berikut
 
 ![Flow Wadah - Main](https://user-images.githubusercontent.com/93004722/139200223-a50af9b8-f393-497f-8c09-38095e9d732d.png)
 
+![Capture](https://user-images.githubusercontent.com/93004722/139212209-d6f5edd7-4918-44ad-999a-d9efdbe4a2cb.PNG)
+
 ## Versi Python Programing language
 
 ![code](https://user-images.githubusercontent.com/93004722/139200256-7fddfa3d-a084-40a0-afca-ae305dced40e.png)
